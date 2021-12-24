@@ -1,3 +1,3 @@
 <?php
-  echo sprintf('test assembly line ok！');
+  echo sprintf('test trigger！');
 ?>

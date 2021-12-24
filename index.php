@@ -1,3 +1,3 @@
 <?php
-  echo sprintf('hello world！');
+  echo sprintf('test assembly line ok！');
 ?>
